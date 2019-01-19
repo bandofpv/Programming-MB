@@ -1,0 +1,24 @@
+This is the files that will teach you how to run your code on you terminal:
+
+For C:
+
+1. Change your directory using cd (ex: cd ~/Downloads)
+2. Type gcc -o Name Name.c (ex: gcc -o Hello_World Hello_World.c)
+3. This will a Unix executable file
+4. Open it to see your code run!
+
+For Java:
+
+1. Change your directory using cd (ex: cd ~/Downloads)
+2. Type javac Name.java (ex: javac Hello_World.java)
+3. This will compile the code.
+4. Then Type java Name (ex: java Hello_World)
+5. This will create a java class file
+6. Open it to see your code run!
+
+For Python:
+
+1. Make the first line in you code (#!/usr/bin/env python)
+2. Change the script file to ".command" (ex: Hello_World.py --> Hello_World.command)
+3. In Terminal make the Python script file executable (ex: chmod +x Hello_World.command)
+4. Now when you double click the Python script in Finder it will open a terminal window and run.
